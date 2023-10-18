@@ -1,0 +1,7 @@
+#+title: README
+
+I found this code when I got a notification to clean up my home directory on the university filesystem.
+
+That course changed the course of my life, so I thought I'd add it to a repo with the last modified timestamps(Since I had no idea what ~git~ was at the time) and preserve it.
+
+It was taught by [[https://morcoslaboratory.org/][Dr. Faruck Morcos]] and a [[https://coursebook.utdallas.edu/search/biol3v00.501.16f][link to the course seach]].
